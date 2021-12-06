@@ -6,8 +6,8 @@
 </p>
 
   A curious IT student and a motivated individual.  
-  I have a Bachelor degree from, <b>ESIEE-IT</b> 🇫🇷 Engineering School.  
-  I am a Javascript especially React developer.  
+  I have a Bachelor degree from, <b>EPSI</b> 🇫🇷 Engineering School.  
+  I am a PHP especially Symfony developer.  
 
 ### Languages
 
